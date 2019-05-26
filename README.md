@@ -1,15 +1,11 @@
 # Classic Arcade Game
 
-## Table of Contents
-
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-
-## Instructions
-
+## Overview
 The idea of this game is inspired from the class arcade game Frogger. 
+
 ### Runing the Game
 To run it, you need to download the file locally, and then run index.html
+
 ### Playing the Game
 The rules ..
 The player can move left, right, up and down.
